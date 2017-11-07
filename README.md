@@ -1781,6 +1781,10 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
 
 *I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
 
+
+The New Life Wellness Center is an addiction care center where you will get guidance and services regarding addiction recovery and addiction care. 
+See more at http://thenewlifewellnesscenter.com
+
     Copyright 2017 Donne Martin
 
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
